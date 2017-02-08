@@ -11,3 +11,15 @@
     z-index: 2;
     position: relative;
 }
+ .padding {
+  background-color: #807474 !important; /* This sets the background color*/
+     
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 80%;
+    height: 246px;
+    margin: auto;
+    z-index: 2;
+    position: relative;
+ }
